@@ -1,4 +1,5 @@
 # Reaction-Game---Arduino-Nano
+Автор : https://www.instagram.com/vla_vi21/
 Схема : 
 
 
